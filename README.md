@@ -76,6 +76,8 @@ Your final product will be assessed on the following metrics:
 
 * Professionalism
 
+- - -
+
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
